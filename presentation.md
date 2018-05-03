@@ -46,12 +46,6 @@ That's it, time to go back up.
 ## Chain of Responsibility
 
 That's it, time to go back up.
-
---
-
-## Strategy Pattern
-
-That's it, time to go back up.
 						
 <a href="#/2">
     <img width="178" height="238" data-src="https://s3.amazonaws.com/hakim-static/reveal-js/arrow.png" alt="Up arrow" style="transform: rotate(180deg); -webkit-transform: rotate(180deg);">
