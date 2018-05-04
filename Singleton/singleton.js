@@ -7,14 +7,14 @@ class Instance {
 var module = (function () {
   var instance = null;
 
-  function init() {
+  function initialize() {
     return new Instance();
   };
 
   return {
     getInstance: function () {
       if (!instance) {
-        instance = init();
+        instance = initialize();
       }
       return instance;
     }

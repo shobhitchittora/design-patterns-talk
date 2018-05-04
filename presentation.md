@@ -11,8 +11,32 @@ highlightTheme: "darkula"
 
 ---
 
+## Discliamer
+
+🔥 Too many gifs! 🔥 <br />
+🔥 Live Demos! 🔥 
+
+
+---
+
+## Why Design Patterns ?
+
+---
+
+<!-- .slide: data-background="https://media.giphy.com/media/Jlt69Ka6SwtH2/giphy.gif" -->
+
+---
+
 ## What is a Pattern ?
 A pattern is a reusable solution that can be applied to commonly occurring problems in software design.
+
+---
+
+## What can they do for us ?
+
+*  Reusable ( not tied to any specific implementation ).
+*  Tested and proven development paradigms.
+*  Improves code readability for coders familiar with the patterns. 
 
 ---
 
@@ -64,6 +88,14 @@ It helps building a chain of objects. Request enters from one end and keeps goin
 <a href="#/2">
     <img width="178" height="238" data-src="https://s3.amazonaws.com/hakim-static/reveal-js/arrow.png" alt="Up arrow" style="transform: rotate(180deg); -webkit-transform: rotate(180deg);">
 </a>
+
+---
+
+<!-- .slide: data-background="https://media.giphy.com/media/mFdnWF1RTI7fi/giphy.gif" -->
+
+---
+
+<!-- .slide: data-background="https://media.giphy.com/media/5eulrUg0H9ycE/giphy.gif" -->
 
 ---
 
