@@ -27,6 +27,10 @@ highlightTheme: "darkula"
 
 ---
 
+<!-- .slide: data-background="https://media.giphy.com/media/26DNdV3b6dqn1jzR6/giphy.gif" -->
+
+---
+
 ## What is a Pattern ?
 A pattern is a reusable solution that can be applied to commonly occurring problems in software design.
 
@@ -37,6 +41,10 @@ A pattern is a reusable solution that can be applied to commonly occurring probl
 *  Reusable ( not tied to any specific implementation ).
 *  Tested and proven development paradigms.
 *  Improves code readability for coders familiar with the patterns. 
+
+---
+
+<!-- .slide: data-background="https://media.giphy.com/media/eenzqB2MsGKbK/giphy.gif" -->
 
 ---
 
@@ -91,6 +99,10 @@ It helps building a chain of objects. Request enters from one end and keeps goin
 
 ---
 
+<!-- .slide: data-background="https://media.giphy.com/media/uDQ7IbKW9RKaQ/giphy.gif" -->
+
+---
+
 <!-- .slide: data-background="https://media.giphy.com/media/mFdnWF1RTI7fi/giphy.gif" -->
 
 ---
@@ -105,10 +117,9 @@ It helps building a chain of objects. Request enters from one end and keeps goin
 
 <!-- .slide: data-background="https://media.giphy.com/media/ulAzjbcBtwDSZqYrZQ/giphy.gif" -->
 
-
 ---
 
-## Much more
+## Want more?
 
 *   [Patterns Of Enterprise Application Architecture](https://www.amazon.in/Patterns-Enterprise-Application-Architecture-Signature/dp/0321127420) by Martin Fowler
 
